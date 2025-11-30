@@ -1,0 +1,12 @@
+gspread
+oauth2client
+pandas
+python-dotenv
+SQLAlchemy
+pangres
+gspread-dataframe
+minio
+psycopg2-binary
+scikit-learn
+numpy
+xgboost
